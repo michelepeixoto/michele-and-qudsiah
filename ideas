@@ -1,0 +1,25 @@
+Ideas for iOS game 
+ 
+
+Play as a needle (Actor) 
+2D arcade side scroller 
+Tap to sprint forward or dash back  
+Swipe left button up and down to change direction of needle vertically 
+Backgrounds are fabrics that are of difficulty to sew similar to level difficulty 
+Spikes, studs, zippers, pockets (Enemies/Variables to levels) 
+ Spikes: must pass in between without touching 
+ Studs: explode if touched 
+ Zippers: move faster 
+ Pockets: takes to a random place on map 
+Different paths 
+Infinite mode 
+
+App Components 
+
+Menu 
+ New game 
+ Pick Level (Select or watch ad to unlock?) 
+ Stats 
+New game – starts from level 1, prompts for a name to save under 
+Pick Level – displays all levels and starts that level by input from tap 
+Stats – returns array of high scores saved on the phone and/or through Game Center
